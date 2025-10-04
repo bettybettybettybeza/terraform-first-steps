@@ -1,5 +1,5 @@
 ````
-# terraform-first-steps
+ terraform-first-steps
 
 This little project is part of a series I’m starting to help beginners *actually understand* Terraform by doing, not just reading.  
 
